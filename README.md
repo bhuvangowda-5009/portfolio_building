@@ -5,3 +5,6 @@ I am a B.Tech Computer Science and Engineering student specializing in IoT and C
 
 ## Skills
 Currently learning: Git and GitHub.
+
+## Interests
+Interested in cybersecurity and cloud computing.
