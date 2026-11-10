@@ -11,3 +11,15 @@ Interested in cybersecurity and cloud computing.
 
 ## Goals
 Goal: Build professional projects and contribute to open source.
+
+## Projects
+
+### 1. Team Collaboration Platform
+Developed a web-based platform that helps team members collaborate, communicate, manage tasks, and organize projects.
+
+**Technologies:** React.js, Node.js, PostgreSQL.
+
+### 2. Micro Kanban Board
+Developed a task management application that helps users organize and track tasks using a Kanban-style board.
+
+**Technologies:** React.js, Node.js, PostgreSQL.
