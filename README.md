@@ -8,3 +8,6 @@ Currently learning: Git and GitHub.
 
 ## Interests
 Interested in cybersecurity and cloud computing.
+
+## Goals
+Goal: Build professional projects and contribute to open source.
