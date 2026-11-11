@@ -39,3 +39,23 @@ Developed a task management application that helps users organize and track task
 - Practiced committing and pushing changes to GitHub.
 - Learned how to create and merge Pull Requests.
 - Explored GitHub Pages deployment.
+
+## Development Journey
+
+### GitHub Learning Activities
+
+This portfolio documents my learning journey in software development and version control.
+
+**Activities Completed:**
+- Setting up a C/C++ development environment using Visual Studio Code.
+- Creating and managing GitHub repositories.
+- Practicing Git commands for version control.
+- Creating branches and managing project changes.
+- Using Pull Requests to review and merge code.
+- Publishing projects using GitHub Pages.
+
+### Future Goals
+- Develop more real-world software projects.
+- Improve programming and problem-solving skills.
+- Learn advanced Git and GitHub workflows.
+- Contribute to open-source projects.
